@@ -1,8 +1,6 @@
 <h2 align="center">Hey 👋am Mervyn</h2>
 
-###
-
-<p align="left">Junior Full Stack Software Engineer with 2+ years of experience specializing in the React ecosystem (React, React Native, Expo) and backend development with Node.js (Express) and Python. Proficient in leveraging AI tools to accelerate development workflows and improve productivity. Skilled across the full software development lifecycle, from system design and planning through to deployment, with a strong focus on building scalable, responsive web and mobile applications. Passionate about Linux systems and applying modern engineering practices to solve real-world applications.</p>
+<p align="left">Junior Full Stack Software Engineer with 2+ years of experience specializing in the React ecosystem (React, React Native, Expo) and backend development with Node.js (Express) and Python. Proficient in leveraging AI tools to accelerate development workflows and improve productivity. Skilled across the full software development lifecycle, from system design and planning through to deployment, with a strong focus on building scalable, responsive web and mobile applications. Passionate about Linux systems and applying modern engineering practices to real-world applications.</p>
 
 ###
 

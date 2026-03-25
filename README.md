@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">Junior Full Stack Software Engineer with 2+ years of experience specializing in the React ecosystem (React, React Native, Expo) and backend development with Node.js (Express) and Python. Proficient in leveraging AI tools to accelerate development workflows and improve productivity. Skilled across the full software development lifecycle, from system design and planning through to deployment, with a strong focus on building scalable, responsive web and mobile applications. Passionate about Linux systems and applying modern engineering practices to solve real-world applications.</p>
 
 ###
@@ -56,15 +54,14 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mervynlinc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Mervynlinc&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mervynlinc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mervynlinc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mervynlinc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mervynlinc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Mervynlinc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
